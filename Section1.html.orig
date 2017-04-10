@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<!--
+what happens when we have conflicts?
+by Sulaiman Abalkhail
+-->
+<<<<<<< HEAD
+<h1>I deleted the first paragraph!</h1>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum suscipit a sapien id mollis. Praesent mattis eros sed massa ullamcorper rutrum. Morbi eleifend, mi non maximus ultrices, erat lectus lobortis diam, id fringilla nulla turpis et arcu. Sed ac diam molestie, sodales tellus sed, ultrices nisi. Vivamus nisi ipsum, facilisis non fringilla non, cursus ac orci. Mauris id mollis nibh. Donec non magna ligula. Nunc placerat nec libero sed pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dignissim arcu vel mauris aliquam, eget porttitor tellus ultrices.
+=======
+b
+<body>
+<h1>Conflict!</h1>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum suscipit a sapien id mollis. Praesent mattis eros sed massa ullamcorper rutrum. Morbi eleifend, mi non maximus ultrices, erat lectus lobortis diam, id fringilla nulla turpis et arcu. Sed ac diam molestie, sodales tellus sed, ultrices nisi. Vivamus nisi ipsum, facilisis non fringilla non, cursus ac orci. Mauris id mollis nibh. Donec non magna ligula. Nunc placerat nec libero sed pretium. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse dignissim arcu vel mauris aliquam, eget porttitor tellus ultrices.</p>
+</body>
+</html>
+
+>>>>>>> section1change
+Nulla ac mauris nec diam rutrum lacinia. Sed sit amet semper risus, vel ultrices enim. Aliquam a est ut turpis congue egestas. Mauris maximus erat enim, eu semper tellus elementum id. Phasellus dapibus et odio a suscipit. Maecenas iaculis condimentum lacus, eu pellentesque mauris fermentum eu. Vestibulum dolor eros, aliquet at erat ut, pharetra feugiat elit. Fusce eros enim, blandit pellentesque finibus in, posuere ut lacus. Proin varius purus in mi viverra viverra. Maecenas turpis velit, fringilla vitae accumsan et, sagittis in urna. Sed ac turpis convallis, faucibus nulla suscipit, laoreet nunc. Donec sit amet eleifend risus, eu venenatis dui.
+Etiam molestie molestie nibh, sit amet blandit leo porta eget. Nulla mattis sodales nibh, in tincidunt nibh finibus eu. Phasellus ut purus aliquam, semper enim non, blandit ligula. Nunc consequat vitae massa at laoreet. Etiam sollicitudin vel nulla quis pellentesque. Mauris egestas tellus lectus, et bibendum neque dignissim ut. Nullam nisl diam, porttitor id commodo placerat, tempor sit amet lorem. Etiam eget lectus in tellus tincidunt molestie id ac leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam vehicula ex non finibus porttitor. In hac habitasse platea dictumst. Maecenas vulputate sem sapien, aliquet pulvinar lectus molestie at. Phasellus nisi dolor, dignissim non consequat id, consequat sed elit.
